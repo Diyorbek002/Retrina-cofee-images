@@ -1,9 +1,8 @@
 div{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-direction: column;
 }
 
 picture + picture{
-    margin-left: 100px;
+    margin-top: 50px;
 }
